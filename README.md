@@ -1,8 +1,6 @@
 # ZombiesRunRussianLANG
 Это кустарная локализация игры Zombies Run для Android. 
 
-Перевод многоголосый фоновый. 
-
 Весь текст сгенерирован при помощи сайта http://5btc.ru/voice/
 Источник текстов https://zrtranscripts.tumblr.com/
 
